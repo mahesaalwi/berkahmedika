@@ -1,0 +1,1170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bingle\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-21 05:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: assets/welcome/welcome.php:218
+msgid " -for tutorials, videos and more."
+msgstr ""
+
+#: assets/welcome/welcome.php:216
+msgid " -to receive updates, offers and more."
+msgstr ""
+
+#: assets/welcome/welcome.php:220
+msgid " -to stay updated. "
+msgstr ""
+
+#: assets/welcome/sections/demo_import.php:117
+msgid " Plugin"
+msgstr ""
+
+#. 1: list of categories.
+#. 1: list of tags.
+#: inc/template-tags.php:65 inc/template-tags.php:72
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:46
+#, php-format
+msgid ""
+"%1$s now comes with a sites library with %2$s starter sites to pick from. "
+"You can check theme out and decide which one to start with. However you can "
+"decide not to use any one of them and start building your site from scratch."
+msgstr ""
+
+#: assets/welcome/welcome.php:130
+msgid "10 ready to use starter sites."
+msgstr ""
+
+#: assets/welcome/sections/support.php:15
+msgid "10AM - 5PM "
+msgstr ""
+
+#: assets/welcome/welcome-config.php:40
+msgid "Access Demo Importer"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:44
+msgid ""
+"Access Demo Importer adds the feature to Import the Demo Conent with a "
+"single click."
+msgstr ""
+
+#. Author of the theme
+msgid "access keys"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:56 assets/welcome/welcome-config.php:73
+msgid "Activate"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:74
+msgid "Activated"
+msgstr ""
+
+#: assets/controls/custom/custom-controls.php:194
+msgid "Add More"
+msgstr ""
+
+#: functions.php:115 functions.php:124
+msgid "Add widgets here."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:278
+msgid "Address Icon Class"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:288
+msgid "Address Text"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:81
+msgid "All Recommended action has been successfully completed."
+msgstr ""
+
+#: assets/welcome/welcome-config.php:80
+msgid ""
+"All these required plugins will be installed and activated while importing "
+"demo. Or you can choose to install and activate them manually. If you're not "
+"importing any of the demos, you must install and activate these plugins "
+"manually."
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:25
+msgid "Archive Container Wrapper Style"
+msgstr ""
+
+#: assets/welcome/welcome.php:224
+msgid "Are you enjoying bingle? We would love to hear your feedback!"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:77
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:166
+msgid "Author"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:102
+#: assets/customizer/bingle-cus-footer.php:98
+msgid "Background Color"
+msgstr ""
+
+#. Name of the theme
+msgid "Bingle"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:50
+msgid "Bingle Setup"
+msgstr ""
+
+#: functions.php:122
+msgid "Bingle SideMenu Contents"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:124
+msgid "Blog / Archive Excerpt Length"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:102
+msgid "Blog / Archive Post Style"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:13
+msgid "Blog / Archive Settings"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:58
+msgid "Blog / Archive Sidebar Style"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:42
+msgid "Blog Container Width"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:86
+msgid "Blog Content Width(Primary)"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:48
+msgid "Bottom Header"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:432
+msgid "Button Background Color"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:447
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:199
+msgid "Cart Icon"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:211
+msgid "Cart Icon Class"
+msgstr ""
+
+#: assets/welcome/welcome.php:34
+msgid "ChangeLog"
+msgstr ""
+
+#: assets/welcome/sections/support.php:32
+msgid ""
+"Checkout our documentation and get more details on how to setup / configure "
+"theme step by step."
+msgstr ""
+
+#: assets/bingle-metaboxes.php:56
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: assets/binglednd/bingledragndrop.php:189
+#: assets/helpers/header-helper.php:248
+msgid "Click on Items to go to their respective settings."
+msgstr ""
+
+#: assets/binglednd/bingledragndrop.php:211
+#: assets/helpers/header-helper.php:270
+msgid "Click to go to settings."
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:162
+msgid "Click to setup footer menu."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:170
+msgid "Click to setup primary menu."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:251
+msgid "Click to setup Sidemenu Contents."
+msgstr ""
+
+#: assets/binglednd/bingledragndrop.php:175
+msgid "Close"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:296
+msgid "Comments"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/welcome/welcome.php:135
+msgid "Contact Support"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:281
+#: assets/controls/custom/custom-controls.php:468
+msgid "Content"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: assets/components/posts/post-bingle_content.php:6
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: assets/welcome/sections/support.php:4
+msgid "Create Support Tickets"
+msgstr ""
+
+#: assets/welcome/sections/support.php:6
+msgid "Create Ticket"
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:70
+msgid "Custom Angle Spread"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:473
+msgid "Custom Html Icon Class"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:460
+msgid "Custom Html Or Shortcode"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:483
+msgid "Custom Html or Shortcode"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:82
+msgid "Customize Theme"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:171
+msgid "Date"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:55
+msgid "Deactivate"
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:77
+msgid "Define Custom Angle"
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:49
+msgid "Define Gradient Colors"
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:51
+msgid "Define Gradient Direction"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:76
+msgid "Demo Installed"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:54
+#: assets/customizer/bingle-cus-footer.php:50
+msgid "Designs"
+msgstr ""
+
+#: assets/welcome/welcome.php:143 assets/welcome/sections/support.php:31
+msgid "Documentation"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:135
+msgid "Drag Elements to sort"
+msgstr ""
+
+#: assets/binglednd/bingledragndrop.php:191
+#: assets/helpers/header-helper.php:250
+msgid "Drag Items between/within Sections to change their position."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:320
+msgid "Email Address"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:310
+msgid "Email Icon Class"
+msgstr ""
+
+#: assets/welcome/sections/support.php:23
+msgid "Email to support team"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:311
+msgid "Enter Class of icon like: \"fa fa-envelope\""
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:279
+#: assets/customizer/bingle-cus-header.php:474
+msgid "Enter Class of icon like: \"fa fa-location\""
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:342
+msgid "Enter Class of icon like: \"fa fa-phone\""
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:212
+msgid "Enter Class of icon like: \"fab fa-opencart\""
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:516
+#: assets/customizer/bingle-cus-footer.php:235
+msgid "Enter width of the section in percentage."
+msgstr ""
+
+#: assets/welcome/welcome.php:369
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:150
+msgid "Excerpt & Read More"
+msgstr ""
+
+#: assets/customizer/bingle-customizer.php:46
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:174
+msgid "Footer Copyright"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:188
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:142
+msgid "Footer Elements"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:13
+#: assets/customizer/bingle-cus-footer.php:34
+msgid "Footer Layouts"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:147
+#: assets/customizer/bingle-cus-footer.php:161
+msgid "Footer Menu"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:7
+#: assets/welcome/sections/getting_started.php:21
+msgid "Footer Settings"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:198
+#: assets/customizer/bingle-cus-footer.php:211
+msgid "Footer Social"
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:50
+msgid ""
+"For a gradient, at least one starting and one end color should be defined."
+msgstr ""
+
+#: assets/welcome/welcome-config.php:68 assets/welcome/welcome-config.php:84
+msgid "Free Plugins"
+msgstr ""
+
+#: assets/welcome/welcome.php:146
+msgid "Full Documentation"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:17
+#: assets/customizer/bingle-cus-header.php:71
+#: assets/customizer/bingle-cus-footer.php:67
+#: assets/customizer/bingle-inner-pages.php:30
+#: assets/customizer/bingle-inner-pages.php:196
+msgid "Fullwidth"
+msgstr ""
+
+#: assets/customizer/bingle-cus-general.php:7
+msgid "General Panel"
+msgstr ""
+
+#: assets/welcome/welcome.php:214
+msgid "Get connected, share your opinions and more via our social community: "
+msgstr ""
+
+#: assets/welcome/welcome.php:31
+msgid "Getting Started"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:63
+msgid "Go live with the website and get some rest"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:64
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:212
+msgid "Go to Header Social to setup footer social icons."
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:52
+msgid "Gradient Preview"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:44
+msgid "Grid"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:112
+msgid "Grid View"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:265
+msgid "Header Address"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:13
+msgid "Header Background Image"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:399
+msgid "Header Button"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:421
+msgid "Header Button Link"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:412
+msgid "Header Button Text"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:146
+msgid "Header Elements"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:298
+msgid "Header Email"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:16
+#: assets/customizer/bingle-cus-header.php:37
+msgid "Header Layouts"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:329
+msgid "Header Phone"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:7
+#: assets/welcome/sections/getting_started.php:16
+msgid "Header Settings"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:360
+msgid "Header Social"
+msgstr ""
+
+#: assets/bingle-functions.php:57
+msgid "Home"
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:69
+msgid "Horizontal Spread (Left To Right)"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://accesspressthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://accesspressthemes.com/wordpress-themes/bingle/"
+msgstr ""
+
+#: assets/components/footer/copyright.php:10
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:378
+msgid "Icon"
+msgstr ""
+
+#: assets/welcome/sections/support.php:13
+msgid ""
+"If you need an immediate solution, you can try our online chat support too. "
+"However our online time is limited and as below"
+msgstr ""
+
+#: assets/welcome/sections/support.php:5
+msgid ""
+"If you're having any issues with the theme, feel free to create a ticket in "
+"our support forum. We reply your ticket very soon!"
+msgstr ""
+
+#: assets/welcome/welcome.php:33
+msgid "Import Demo"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:7
+msgid "Inner Pages Panel"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:31
+msgid "Inner Pages Settings"
+msgstr ""
+
+#: assets/customizer/bingle-customizer.php:48
+msgid "Instagram"
+msgstr ""
+
+#: assets/welcome/sections/demo_import.php:117
+msgid "Install : "
+msgstr ""
+
+#: assets/welcome/welcome-config.php:54
+msgid "Install and Activate"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:55
+msgid "Install Demo"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:75
+msgid "Installing Demo"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: assets/controls/custom/custom-controls.php:106
+msgid "Items"
+msgstr ""
+
+#: assets/welcome/sections/support.php:16
+msgid "Kathmandu Time (GMT + 5:45)"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:31
+#: assets/customizer/bingle-cus-footer.php:28
+msgid "Layout "
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:63
+msgid "Layout Eight"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:66
+msgid "Layout Eleven"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:60
+msgid "Layout Five"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:59
+msgid "Layout Four"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:64
+msgid "Layout Nine"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:56
+msgid "Layout One"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:62
+msgid "Layout Seven"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:61
+msgid "Layout Six"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:65
+msgid "Layout Ten"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:58
+msgid "Layout Three"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:57
+msgid "Layout Two"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:78
+#: assets/customizer/bingle-inner-pages.php:64
+#: assets/customizer/bingle-inner-pages.php:230
+msgid "Left Sidebar"
+msgstr ""
+
+#: assets/bingle-metaboxes.php:34
+msgid "Left sidebar"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:389
+msgid "Link"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:5
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:43
+msgid "List"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ""
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:108
+msgid "List View"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:44
+msgid "Main Footer"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:47
+msgid "Main Header"
+msgstr ""
+
+#: assets/controls/custom/custom-controls.php:106
+msgid "Manage"
+msgstr ""
+
+#: assets/controls/custom/custom-controls.php:439
+msgid "Margin"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:120
+#: assets/customizer/bingle-cus-footer.php:116
+msgid "Margin and Padding"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:26
+msgid "Menu Options"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:161
+msgid "Meta Elements Order"
+msgstr ""
+
+#: assets/welcome/sections/support.php:14
+msgid "Mon - Fri"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:30
+#: assets/customizer/bingle-cus-header.php:226
+msgid "No"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:84
+#: assets/customizer/bingle-inner-pages.php:72
+#: assets/customizer/bingle-inner-pages.php:238
+msgid "No Sidebar"
+msgstr ""
+
+#: assets/bingle-metaboxes.php:44
+msgid "No sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:125
+msgid ""
+"Number of Words, will affect the \"excerpt_length\" hook and overall "
+"excerpts."
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:54
+msgid ""
+"Once you chose one of the available starter sites (demos) - you can install "
+"it. Please be noted that once you install the demo, it will install all the "
+"required plugins too. It is not recommended to install demo on your existing "
+"content. A fresh WordPress installation would be required to install demo to "
+"replicate demo content exactly. "
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:59
+msgid ""
+"Once you install the demo, you can start editing the content, replacing "
+"images etc."
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: assets/welcome/sections/support.php:12
+msgid "Online Chat"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: assets/controls/custom/custom-controls.php:451
+msgid "Padding"
+msgstr ""
+
+#: assets/bingle-functions.php:142
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:24
+#: assets/components/posts/post-bingle_content.php:17
+msgid "Pages:"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:351
+msgid "Phone"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:341
+msgid "Phone Icon Class"
+msgstr ""
+
+#: assets/customizer/bingle-customizer.php:49
+msgid "Pinterest"
+msgstr ""
+
+#: assets/welcome/welcome.php:461 assets/welcome/welcome.php:481
+msgid "Plugin Does not Exists"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:134
+msgid "Post Elements Order"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:291
+msgid "Post Navigation"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:67 assets/welcome/welcome-config.php:83
+msgid "Premium Plugins"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:155
+#: assets/customizer/bingle-cus-header.php:169
+msgid "Primary Menu"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: assets/components/footer/copyright.php:13
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: assets/components/posts/post-bingle_excerpt.php:3
+msgid "Read More"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:61
+msgid "Read Now"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:60
+msgid ""
+"Read the Documentation and follow the instructions to manage the site , it "
+"helps you to set up the theme more easily and quickly. The Documentation is "
+"very easy with its pictorial  and well managed listed instructions. "
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: assets/welcome/welcome.php:32
+msgid "Recommended Plugins"
+msgstr ""
+
+#: assets/welcome/welcome.php:150
+msgid "Return to your Dashboard"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:81
+#: assets/customizer/bingle-inner-pages.php:68
+#: assets/customizer/bingle-inner-pages.php:234
+msgid "Right Sidebar"
+msgstr ""
+
+#: assets/bingle-metaboxes.php:39
+msgid "Right sidebar"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:178
+msgid "Search"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:190
+msgid "Search Label"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:515
+#: assets/customizer/bingle-cus-footer.php:234
+msgid "Section Width (%)"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:47
+msgid "See Demos"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:121
+#: assets/customizer/bingle-cus-footer.php:117
+msgid "Set the default margin and padding."
+msgstr ""
+
+#: assets/welcome/welcome.php:162
+msgid "Setup"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:143
+msgid "Setup Footer Elements of the site."
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:8
+msgid "Setup footer of the site."
+msgstr ""
+
+#: assets/customizer/bingle-cus-general.php:8
+#: assets/customizer/bingle-inner-pages.php:8
+msgid "Setup general options of the site."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:147
+msgid "Setup Header Elements of the site."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:8
+msgid "Setup header of the site."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:222
+msgid "Show Header Cart Dropdown"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:223
+msgid "Show the header cart details dropdown on hover."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:237
+msgid "Side Menu Icon"
+msgstr ""
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: assets/bingle-metaboxes.php:13 assets/bingle-metaboxes.php:22
+msgid "Sidebar Layout"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:250
+msgid "Sidemenu Widgets"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:266
+msgid "Singel Post Elements Order"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:191
+msgid "Single Container Wrapper Style"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:208
+msgid "Single Page / Post Container Width"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:252
+msgid "Single Page / Post Content Width (Primary)"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:179
+msgid "Single Page / Post Settings"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:224
+msgid "Single Page / Post Sidebar Style"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: assets/welcome/welcome.php:359
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: assets/welcome/sections/support.php:17
+msgid "Start Online Chat"
+msgstr ""
+
+#: assets/welcome/welcome.php:125
+msgid "Starter site demos!"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:45
+msgid "Step 1 - Checkout starter sites (Demos) "
+msgstr ""
+
+#: assets/welcome/welcome-config.php:59
+msgid "Step 1 - Documentation"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:62
+msgid "Step 2 - Customizer Panel"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:53
+msgid "Step 2 - Import demo of your choice "
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:58
+msgid "Step 3 - Start editing the demo content and making your site! "
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:62
+msgid "Step 4 - You 're done! "
+msgstr ""
+
+#: assets/welcome/welcome.php:35
+msgid "Support"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:286
+msgid "Tags"
+msgstr ""
+
+#: assets/welcome/welcome.php:113
+#, php-format
+msgid ""
+"Thank you for installing %1$s. It is now installed and ready to use. Here "
+"are some useful links to get started: "
+msgstr ""
+
+#. Description of the theme
+#: assets/welcome/welcome-config.php:51
+msgid ""
+"The bingle is Responsive multipurpose WordPress theme suitable for almost "
+"any type of website, hotel reservation, creative design agency, web "
+"development agency, corporate, product shop, startup company, app landing "
+"page and tons more. It is a highly flexible theme that gives you full "
+"control to design and manage your dream website as per your wish."
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: assets/components/footer/copyright.php:22
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:289
+msgid "This field supports HTML"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:484
+msgid ""
+"This field supports HTML or shortocde like: Language: [POLYLANG dropdown=1]"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:145
+#: assets/customizer/bingle-inner-pages.php:276
+msgid "Thumbnail"
+msgstr ""
+
+#: assets/customizer/bingle-inner-pages.php:140
+#: assets/customizer/bingle-inner-pages.php:271
+msgid "Title & Meta"
+msgstr ""
+
+#: assets/customizer/bingle-cus-footer.php:43
+msgid "Top Footer"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:46
+msgid "Top Header"
+msgstr ""
+
+#: assets/customizer/bingle-customizer.php:47
+msgid "Twitter"
+msgstr ""
+
+#: assets/welcome/sections/getting_started.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: assets/welcome/welcome-config.php:63
+msgid ""
+"Using the customizer panel you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: assets/welcome/sections/actions_required.php:51
+#: assets/welcome/sections/actions_required.php:112
+msgid "Version "
+msgstr ""
+
+#: assets/controls/gradient/gradient.php:68
+msgid "Vertical Spread (Top to Bottom)"
+msgstr ""
+
+#: assets/welcome/sections/support.php:33
+msgid "View Documentation"
+msgstr ""
+
+#: assets/customizer/bingle-customizer.php:50
+msgid "Vimeo"
+msgstr ""
+
+#: assets/welcome/welcome.php:178
+#, php-format
+msgid "Welcome to %s - Version %s"
+msgstr ""
+
+#: assets/welcome/welcome.php:112
+msgid "Welcome!"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:16
+#: assets/customizer/bingle-cus-header.php:70
+#: assets/customizer/bingle-cus-footer.php:66
+#: assets/customizer/bingle-inner-pages.php:29
+#: assets/customizer/bingle-inner-pages.php:195
+msgid "Wrapped"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:66
+#: assets/customizer/bingle-cus-footer.php:62
+msgid "Wrapper Style"
+msgstr ""
+
+#: assets/customizer/bingle-cus-header.php:85
+#: assets/customizer/bingle-cus-footer.php:81
+msgid "Wrapper Width"
+msgstr ""
+
+#: assets/customizer/bingle-sanitizer.php:29
+#: assets/customizer/bingle-cus-header.php:225
+msgid "Yes"
+msgstr ""
+
+#: assets/welcome/sections/support.php:24
+msgid ""
+"You can also email to our support team directly at : "
+"support@accesspressthemes.com."
+msgstr ""
+
+#: assets/welcome/welcome.php:134
+msgid ""
+"You can also reach-out to us for any support during the theme setup and use."
+msgstr ""
+
+#: assets/customizer/bingle-customizer.php:51
+msgid "You Tube"
+msgstr ""

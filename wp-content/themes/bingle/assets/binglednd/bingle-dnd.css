@@ -1,0 +1,120 @@
+.bingle-dnd.demo {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	max-width: 100%;
+	left: 0px;
+	display: block;
+	background: #f1f1f1;
+	border-top: 1px solid #ddd;
+	transition: all 500ms;
+	transform: translateY(100%);
+}
+.bingle-dnd-active.bingle-dnd.demo {
+	transform: translateY(0%);
+}
+.bingle-dnd .demo-inner {
+	transition: all 500ms;
+	margin-left: 300px;
+	margin-right: 0px;
+	height: 100%;
+	display: block;
+	overflow: auto;
+	padding: 10px 20px;
+}
+.bingle-dnd .bingleDrag {
+	border: 1px solid #999;
+	margin: 10px 0 10px 25px;
+	background: #ccc;
+	padding: 5px;
+	min-height: 42px;
+}
+.bingle-dnd .sec-setting {
+	position: absolute;
+	background: #ccc;
+	padding: 17px 2px;
+	text-decoration: none;
+}
+.bingle-dnd .bingle-drag-sec {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 5px;
+	background: #aaa;
+	position: relative;
+	width: auto !important;
+	border: 1px solid #aaa;
+}
+.bingle-dnd .bingle-drag-sec i, .bingle-dnd .bingle-drag-sec a {
+	padding: 5px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.bingle-dnd .bingle-drag-sec a {
+	text-decoration: none;
+	color: #444;
+	border-left: 1px solid;
+	border-right: 1px solid;
+}
+.bingle-dnd .sectionDragnDrop .inner-sec-title {
+	position: absolute;
+	color: #fff;
+	font-size: 26px;
+	margin-top: 20px;
+	right: 5%;
+}
+#customize-theme-controls .section-disable {
+	position: relative;
+}
+#customize-theme-controls .section-disable:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba(228, 228, 228, 0.7);
+	width: 100%;
+}
+.bingle-dnd .section-disable:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	background: rgba( 240, 240, 240, 0.5);
+	width: calc(100% - 46px);
+}
+.sectionDragnDrop .section-disable:after {
+	width: calc(100% - 34px);
+}
+#customize-theme-controls .sortable-elements-wrap .section-disable:after {
+	width: calc(100% - 46px);
+}
+.bingle-dnd .section-disable .section-trigger:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0; 
+	right: 0;
+	bottom: 0;
+	background: rgba( 240, 240, 240, 0.5);
+	width: 34px;
+}
+#customize-theme-controls .sortable-elements-wrap .section-disable .section-trigger:after {
+	width: 45px;
+}
+.bingle-dnd .btn-close-dnd {
+	position: absolute;
+	padding: 5px 20px;
+	border: 1px solid;
+	text-decoration: none;
+	right: 3%;
+	top: -15%;
+}
+.control-section .bingle-cus-linkto .accordion-section-title::after{
+	display: none;
+}
+@media screen and (min-width:1667px){
+	.bingle-dnd .demo-inner {
+		margin-left: 18%;
+	}
+}
